@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.result{
+  height: 60px;
+  background-color: #bbb;
+  width: 100%; 
+}
+
+.result p{
+  font-size: 40px;
+}
+
+.calc-body{
+  max-width: 400px;
+  margin: auto;
+}
+
+.calc-body h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 60px;
+   
+}
+
+.button{
+  display: block;
+  background-color: #bbb;
+}
+
+.button button{
+  width: 25%;
+  height: 60px;
+  font-size: 40px;
+}
